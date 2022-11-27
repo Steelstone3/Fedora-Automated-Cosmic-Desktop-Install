@@ -1,2 +1,2 @@
-# Automated-Cosmic-Desktop-Install
+# Automated Cosmic Desktop Install
 Cosmic Desktop automated install script from source
