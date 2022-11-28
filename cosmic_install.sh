@@ -13,5 +13,6 @@ cd
 cd shell
 make local-install
 
+https://extensions.gnome.org/extension/4269/alphabetical-app-grid/
 https://extensions.gnome.org/extension/307/dash-to-dock/
 https://extensions.gnome.org/extension/5177/vertical-workspaces/
