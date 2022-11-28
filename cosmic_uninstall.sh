@@ -6,4 +6,7 @@ sudo dnf remove nodejs npm nodejs-typescript
 
 echo "Remove shell source"
 cd
+cd shell
+make uninstall
+cd
 sudo rm -r shell
